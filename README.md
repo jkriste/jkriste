@@ -28,7 +28,7 @@ Check out the pinned repositories below to see examples of what I've made and wo
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 
-#### Databases
+#### DBMS
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -48,5 +48,5 @@ Check out the pinned repositories below to see examples of what I've made and wo
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats :
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jkriste&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
