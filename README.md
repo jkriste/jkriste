@@ -49,4 +49,4 @@ Check out the pinned repositories below to see examples of what I've made and wo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=jkriste&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-jkriste.vercel.app/api?username=jkriste&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
