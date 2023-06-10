@@ -2,9 +2,10 @@
 
 <img src="https://i.imgur.com/7L0dG9K.png" alt="Banner">
 
-I'm a Computer Science student at Clemson University, planning to graduate May 2023.
-I love Computer Science for the simplicity of building _something_ out of ✨ **nothing**. ✨
-I'm a quick learner and take pride in my work. 
+I am a software engineer, currently working at American Airlines.
+I've been programming as a hobby since I was 12 years old and I am glad to say that I turned this hobby into a career.
+I love computer science for the simplicity of building _something_ out of ✨ **nothing**. ✨
+I'm a detail-oriented, quick learner and I take pride in my work.
 Check out the pinned repositories below to see examples of what I've made and worked on!
 
 ### 💻 Tech Stack
@@ -13,7 +14,7 @@ Check out the pinned repositories below to see examples of what I've made and wo
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=blue)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=blue)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
@@ -40,6 +41,7 @@ Check out the pinned repositories below to see examples of what I've made and wo
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black&labelColor=darkgreen)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=5C2D91) 
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
@@ -47,6 +49,7 @@ Check out the pinned repositories below to see examples of what I've made and wo
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-jkriste.vercel.app/api?username=jkriste&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
